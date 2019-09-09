@@ -2659,7 +2659,7 @@
 											"height": 13,
 											"alpha": 1.2120251085792315,
 											"distance": 17.08800749063506,
-											"text": "3 : consultarEstadoAtraccion(atraccion)"
+											"text": "3 : consultarEstado"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -2762,7 +2762,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtFrYZvAvgmIE="
 							},
-							"name": "consultarEstadoAtraccion",
+							"name": "consultarEstado",
 							"source": {
 								"$ref": "AAAAAAFtFrmG7gxlhlo="
 							},
@@ -2771,8 +2771,7 @@
 							},
 							"connector": {
 								"$ref": "AAAAAAFtF3WMbtmK8K0="
-							},
-							"arguments": "atraccion"
+							}
 						},
 						{
 							"_type": "UMLMessage",

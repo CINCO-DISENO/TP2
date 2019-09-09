@@ -6909,7 +6909,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 32,
+															"left": 16,
 															"top": -240,
 															"height": 13
 														},
@@ -6920,11 +6920,11 @@
 																"$ref": "AAAAAAFtFhH1zUFHzdE="
 															},
 															"font": "Arial;13;1",
-															"left": 445,
+															"left": 437,
 															"top": 95,
-															"width": 93.91357421875,
+															"width": 109.8017578125,
 															"height": 13,
-															"text": "Interfaz Parque"
+															"text": "Interfaz Atraccion"
 														},
 														{
 															"_type": "LabelView",
@@ -6934,7 +6934,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 32,
+															"left": 16,
 															"top": -240,
 															"width": 106.20263671875,
 															"height": 13,
@@ -6948,16 +6948,16 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 32,
+															"left": 16,
 															"top": -240,
 															"height": 13,
 															"horizontalAlignment": 1
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 440,
+													"left": 432,
 													"top": 88,
-													"width": 103.91357421875,
+													"width": 119.8017578125,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFtFhH1zUFIH98="
@@ -6974,9 +6974,9 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 440,
+											"left": 432,
 											"top": 88,
-											"width": 103.91357421875,
+											"width": 119.8017578125,
 											"height": 30,
 											"nameCompartment": {
 												"$ref": "AAAAAAFtFhH1zUFHzdE="
@@ -7003,7 +7003,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 289,
+													"left": 285,
 													"top": 81,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -7024,7 +7024,7 @@
 													},
 													"visible": null,
 													"font": "Arial;13;0",
-													"left": 289,
+													"left": 285,
 													"top": 66,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -7045,7 +7045,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 289,
+													"left": 285,
 													"top": 111,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -7129,7 +7129,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 413,
+													"left": 405,
 													"top": 81,
 													"height": 13,
 													"alpha": -0.5235987755982988,
@@ -7149,7 +7149,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 410,
+													"left": 402,
 													"top": 67,
 													"height": 13,
 													"alpha": -0.7853981633974483,
@@ -7169,7 +7169,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 417,
+													"left": 409,
 													"top": 108,
 													"height": 13,
 													"alpha": 0.5235987755982988,
@@ -7187,7 +7187,7 @@
 												"$ref": "AAAAAAFtFg/GPEEn+U4="
 											},
 											"lineStyle": 1,
-											"points": "140:102;439:102",
+											"points": "140:102;431:102",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAFtFhKU9UHUdEQ="
@@ -7237,7 +7237,7 @@
 														"$ref": "AAAAAAFtFhKU9kHeq7I="
 													},
 													"font": "Arial;13;0",
-													"left": 169.630615234375,
+													"left": 165.630615234375,
 													"top": 75,
 													"width": 237.73876953125,
 													"height": 13,
@@ -7256,7 +7256,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 288.5,
+													"left": 284.5,
 													"top": 60,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -7273,7 +7273,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 288.5,
+													"left": 284.5,
 													"top": 75,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -7281,7 +7281,7 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 269,
+											"left": 265,
 											"top": 92,
 											"width": 40,
 											"alpha": 1.5707963267948966,
@@ -7328,7 +7328,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": -64,
+															"left": -80,
 															"top": -336,
 															"height": 13
 														},
@@ -7339,11 +7339,11 @@
 																"$ref": "AAAAAAFtFhT7NULwGnY="
 															},
 															"font": "Arial;13;1",
-															"left": 445,
+															"left": 437,
 															"top": 199,
-															"width": 90,
+															"width": 105.47265625,
 															"height": 13,
-															"text": "Gestor Parque"
+															"text": "Gestor Atraccion"
 														},
 														{
 															"_type": "LabelView",
@@ -7353,7 +7353,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": -64,
+															"left": -80,
 															"top": -336,
 															"width": 106.20263671875,
 															"height": 13,
@@ -7367,16 +7367,16 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": -64,
+															"left": -80,
 															"top": -336,
 															"height": 13,
 															"horizontalAlignment": 1
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 440,
+													"left": 432,
 													"top": 192,
-													"width": 100,
+													"width": 115.47265625,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFtFhT7NULxjJE="
@@ -7393,9 +7393,9 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 440,
+											"left": 432,
 											"top": 192,
-											"width": 100,
+											"width": 115.47265625,
 											"height": 30,
 											"nameCompartment": {
 												"$ref": "AAAAAAFtFhT7NULwGnY="
@@ -8797,7 +8797,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 288,
+													"left": 284,
 													"top": 111,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -8818,7 +8818,7 @@
 													},
 													"visible": null,
 													"font": "Arial;13;0",
-													"left": 288,
+													"left": 284,
 													"top": 126,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -8839,7 +8839,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 289,
+													"left": 285,
 													"top": 81,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -8860,7 +8860,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 413,
+													"left": 405,
 													"top": 110,
 													"height": 13,
 													"alpha": 0.5235987755982988,
@@ -8881,7 +8881,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 410,
+													"left": 402,
 													"top": 124,
 													"height": 13,
 													"alpha": 0.7853981633974483,
@@ -8902,7 +8902,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 417,
+													"left": 409,
 													"top": 83,
 													"height": 13,
 													"alpha": -0.5235987755982988,
@@ -8981,7 +8981,7 @@
 												"$ref": "AAAAAAFtFhH1zUFGi4I="
 											},
 											"lineStyle": 1,
-											"points": "439:102;140:102",
+											"points": "431:102;140:102",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAFtFhj8jU726j0="
@@ -9031,7 +9031,7 @@
 														"$ref": "AAAAAAFtFhj8jk8Ao3c="
 													},
 													"font": "Arial;13;0",
-													"left": 191.31103515625,
+													"left": 187.31103515625,
 													"top": 40,
 													"width": 194.3779296875,
 													"height": 13,
@@ -9050,7 +9050,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 286.5,
+													"left": 282.5,
 													"top": 30,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -9067,7 +9067,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 286.5,
+													"left": 282.5,
 													"top": 45,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -9075,7 +9075,7 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 267,
+											"left": 263,
 											"top": 62,
 											"width": 40,
 											"alpha": -1.5195594151291862,
@@ -9226,7 +9226,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFtFg+vrEEXcWU="
 									},
-									"name": "Interfaz Parque",
+									"name": "Interfaz Atraccion",
 									"represent": {
 										"$ref": "AAAAAAFtFhH1zUFEJ7Q="
 									},
@@ -9238,7 +9238,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFtFg+vrEEXcWU="
 									},
-									"name": "Gestor Parque",
+									"name": "Gestor Atraccion",
 									"represent": {
 										"$ref": "AAAAAAFtFhT7NULt9Q8="
 									},
@@ -9360,8 +9360,7 @@
 										}
 									}
 								}
-							],
-							"type": ""
+							]
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9425,8 +9424,7 @@
 										}
 									}
 								}
-							],
-							"type": ""
+							]
 						},
 						{
 							"_type": "UMLAttribute",
